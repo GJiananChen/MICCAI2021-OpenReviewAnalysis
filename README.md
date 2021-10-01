@@ -1,10 +1,11 @@
 # MICCAI2021-OpenReviewAnalysis
-This repository contains information about MICCAI 2021 accepted papers mined from [MICCAI2021 Openreview](https://miccai2021.org/openaccess/paperlinks/index.html). More information will be added and code will be released soon.
+Disclaimer: **All results are generated from [MICCAI2021 Openreview](https://miccai2021.org/openaccess/paperlinks/index.html).** 
+Any suggestions for new features are welcomed!
+
 
 ## MICCAI 2021 Accepted Papers Sorted By Review Score
 [Click to see list](SortedByScore.md)
 1. We sorted the 531 accepted papers according to their average review score.
-2. Note that review scores are subjective scores. They are not necessarily correlated with paper quality.
 
 ## MICCAI 2021 Open Source Papers
 1. We use "Link to the code repository" in OpenReview for retrieving the open-source papers. 271 out of 531 accepted papers included a link to their code repository. 
