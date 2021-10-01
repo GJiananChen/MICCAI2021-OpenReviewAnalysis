@@ -4,19 +4,21 @@ Disclaimer: **All results are generated from [MICCAI2021 Openreview](https://mic
 Any suggestions for new features are welcomed!
 
 # Table of Contents
-1. [MICCAI 2021 Accepted Papers Sorted By Review Score](#MICCAI 2021 Accepted Papers Sorted By Review Score)
-2. [MICCAI 2021 Strengths And Weaknesses Of Accpeted Papers](#MICCAI 2021 Strengths And Weaknesses Of Accpeted Papers)
-3. [MICCAI 2021 Open Source Papers](#MICCAI 2021 Open Source Papers)
+1. [MICCAI 2021 Accepted Papers Sorted By Review Score](#score)
+2. [MICCAI 2021 Strengths And Weaknesses Of Accpeted Papers](#tagcloud)
+3. [MICCAI 2021 Open Source Papers](#opensource)
 
-## MICCAI 2021 Accepted Papers Sorted By Review Score
+## MICCAI 2021 Accepted Papers Sorted By Review Score <a name="score"></a>
 [Click to see list](SortedByScore.md)
 1. We sorted the 531 accepted papers according to their average review score.
 
-## MICCAI 2021 Strengths And Weaknesses Of Accpeted Papers
+## MICCAI 2021 Strengths And Weaknesses Of Accpeted Papers <a name="tagcloud"></a>
+### Major strengths mentioned by reviewers
 ![Strengths](strength.PNG)
+### Major weaknesses mentioned by reviewers
 ![Weaknesses](weakness.PNG)
 
-## MICCAI 2021 Open Source Papers
+## MICCAI 2021 Open Source Papers <a name="opensource"></a>
 1. We use "Link to the code repository" in OpenReview for retrieving the open-source papers. 271 out of 531 accepted papers included a link to their code repository. 
 2. Papers listed here are ranked in alphabetical order.
 3. For a complete list of all open source MICCAI papers from 2019-2021, please visit https://github.com/JunMa11/MICCAI-OpenSourcePapers/.
