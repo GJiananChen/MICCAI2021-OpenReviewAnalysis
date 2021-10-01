@@ -1,7 +1,10 @@
-# MICCAI-OpenSourcePapers
-MICCAI 2021 Open Source Papers
+# MICCAI2021-OpenReviewAnalysis
+This repository contains information about MICCAI 2021 accepted papers mined from [MICCAI2021 Openreview](https://miccai2021.org/openaccess/paperlinks/index.html). More information will be added and code will be released soon.
 
-> We use "Link to the code repository" in [MICCAI2021 Openreview](https://miccai2021.org/openaccess/paperlinks/index.html) as the keyword to retrieve the open-source papers. Please feel free to pull requests for the unlisted open-source articles.
+## MICCAI 2021 Open Source Papers
+1. We use "Link to the code repository" in OpenReview for retrieving the open-source papers. Please feel free to open an issue/pull request for additional open-source papers that are not listed here.
+2. Papers listed here are ranked in alphabetical order.
+3. For a complete list of all open source MICCAI papers from 2019-2021, please visit https://github.com/JunMa11/MICCAI-OpenSourcePapers/.
 
 | Title                                                        | Code                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
