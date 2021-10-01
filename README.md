@@ -3,10 +3,18 @@ Disclaimer: **All results are generated from [MICCAI2021 Openreview](https://mic
 
 Any suggestions for new features are welcomed!
 
+# Table of Contents
+1. [MICCAI 2021 Accepted Papers Sorted By Review Score](## MICCAI 2021 Accepted Papers Sorted By Review Score)
+2. [MICCAI 2021 Strengths And Weaknesses Of Accpeted Papers](## MICCAI 2021 Strengths And Weaknesses Of Accpeted Papers)
+3. [MICCAI 2021 Open Source Papers](## MICCAI 2021 Open Source Papers)
 
 ## MICCAI 2021 Accepted Papers Sorted By Review Score
 [Click to see list](SortedByScore.md)
 1. We sorted the 531 accepted papers according to their average review score.
+
+## MICCAI 2021 Strengths And Weaknesses Of Accpeted Papers
+![Strengths](strengths.PNG)
+![Weaknesses](weaknesses.PNG)
 
 ## MICCAI 2021 Open Source Papers
 1. We use "Link to the code repository" in OpenReview for retrieving the open-source papers. 271 out of 531 accepted papers included a link to their code repository. 
